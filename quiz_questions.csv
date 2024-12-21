@@ -1,0 +1,9 @@
+question,options,mood_mapping
+What type of activity are you doing or planning to do?,Relaxing|Studying/Working|Crying,Happy|Neutral|Sad
+How would you describe your energy level?,Balanced|Low|High,Neutral|Sad|Happy
+How motivated are you?,Very motivated|Somewhat motivated|Not motivated,Happy|Neutral|Sad
+Choose a color that resonates with your current mood,Blue|Yellow|Dark Green,Sad|Happy|Neutral
+What type of weather best matches how you feel today?,Rainy and Gloomy|Sunny and Bright|Calm and Breezy,Sad|Happy|Neutral
+Which of these animals feels most like your current mood?,Dolphin (playful and energetic)|Owl (peaceful and wise)|Cat (calm and introspective),Happy|Neutral|Sad
+What type of movie would you like to watch right now?,Romantic Tragedy|Comedy|Drama,Sad|Happy|Neutral
+How do you feel about interacting with others at this moment?,I want to be around people.|I prefer to be alone.|I'm fine with either.,Happy|Sad|Neutral
